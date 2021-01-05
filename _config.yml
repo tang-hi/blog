@@ -1,1 +1,10 @@
 theme: jekyll-theme-slate
+
+title: Tang's Blog
+
+author: tangdh
+
+
+navbar-links:
+    About Me: "aboutme"
+    Author's home: "https://deanattali.com"

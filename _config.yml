@@ -1,10 +1,22 @@
-theme: jekyll-theme-slate
+# Setup
+title:               tang-hi
+tagline:             'tang-hi Blog'
+description:         'some note writted by tang'
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            5
+permalink:           pretty
 
-title: Tang's Blog
+# About/contact
+author:
+  name:              tangdh 
+  url:               http://tangdhcs.cn/
+  email:             tangdhcs@gmail.com
 
-author: tangdh
+# Gems
+plugins:
+  - jekyll-paginate
 
-
-navbar-links:
-    About Me: "aboutme"
-    Author's home: "https://deanattali.com"
+# Custom vars
+version:             1.0.0
+google_analytics_id: #UA-XXXX-Y

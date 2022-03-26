@@ -1,5 +1,9 @@
 site_url: https://tang-hi.github.io/blog/
 repo_url: https://github.com/tang-hi/blog
+extra:
+  analytics:
+    provider: google
+    property: G-3RY6GDYCPG
 theme:
   name: material
   palette:

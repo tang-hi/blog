@@ -1,5 +1,5 @@
-site_url: https://tang-hi.github.io
-repo_url: https://github.com/tang-hi/tang-hi.github.io
+site_url: https://tang-hi.github.io/blog/
+repo_url: https://github.com/tang-hi/blog
 theme:
   name: material
   palette:

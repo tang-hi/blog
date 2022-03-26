@@ -1,0 +1,12 @@
+theme:
+  name: material
+  palette:
+    primary: blue grey
+  features:
+    - navigation.expand
+
+site_name: tang-hi's blog
+
+nav:
+  - Paper Reading:
+      - MapReduce: "paper/mapreduce.md"
